@@ -1,5 +1,5 @@
 # TulipTrack
-HackNYU 2025
+HackNYU 2025. Watch the demo [here](https://www.youtube.com/watch?v=Cn11z7-Yju0)
 
 ## 🌟 Inspiration
 Over **500,000** Americans have Parkinson's Disease, and thousands more go undiagnosed and untreated. Elderly people with Parkinson's rarely know how their medication is affecting them, so we wanted to bring independence and autonomy to them. This way, they can take care of their condition without relying on their family members or doctor to update them with new developments in their treatment.
